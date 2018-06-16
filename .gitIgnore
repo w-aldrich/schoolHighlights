@@ -1,0 +1,35 @@
+//This allows you to ignore certain files, or certain file types
+//These are a bunch that have come in handy in the past, a jack of all trades
+# Prerequisites
+*.d
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+# Precompiled Headers
+*.gch
+*.pch
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+# Fortran module files
+*.mod
+*.smod
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+# Executables
+*.exe
+*.out
+*.app
+#Xcode junk
+*.xcodeproj
+.DS_Store
+xcuserdata/
+xcode/
+.Trashes
+*.swp

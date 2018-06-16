@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Will Billiams Chat</string>
+    <string name="user_name">User Name</string>
+    <string name="room">Room</string>
+    <string name="login">Enter Room</string>
+    <string name="new_Message">Enter a message here</string>
+    <string name="submit_Message">Submit</string>
+</resources>
