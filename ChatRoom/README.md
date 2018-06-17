@@ -22,10 +22,17 @@ Created using Atom IDE for the *Http, CSS, and JavaScript*. Uses JSON formatting
 
 #### First User Login Screen
 The first user who is trying to enter a room will see the following screen.
-![alt text](https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/FirstUserLogin.png)
+
+<img src="https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/FirstUserLogin.png"/>
+
 Once the user is logged into a room, they will see a blank room.
-![alt text](https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/FirstUserBlankRoom.png)
+
+<img src="https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/FirstUserBlankRoom.png"/>
+
 Once a second (or anyone else from this point forward) connects to the server, they will see what rooms are available to join. They can join any of the rooms listed, or create a new room.
-![alt text](https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/SecondUserLogin.png)
+
+<img src="https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/SecondUserLogin.png"/>
+
 Once they are in the room, they can refresh their chat and see all of the previous messages in that room. They will be able to see all of the current users in the room as well.
-![alt text](https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/ChatRoomExample.png)
+
+<img src="https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/ChatRoomExample.png"/>
