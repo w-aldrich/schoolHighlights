@@ -27,6 +27,7 @@ The Chat_App can communicate with the web client as seen above. The following im
 This is a multithreaded server utilizing a Fixed Thread Pool (size 100) to serve its clients. The server was created in *Java* as its language, utilizing the Eclipse IDE. Uses pipes to communicate to all clients through JSON formatting. Uses the gson library for its JSON formatting. The easiest way to run this server is through the Eclipse IDE. The server will shut down any bad requests from clients, and remove them from the server allowing for someone else to join the ChatRoom. There can be multiple chatrooms going at a time. When a client connects either through the Chat_App or through the web interface, all of the open rooms will be shown.
 
 ***Web Client***
+
 Created using Atom IDE for the *Http, CSS, and JavaScript*. Uses JSON formatting to communicate with the server. Once the Server is running, to connect enter `localhost:8080` into your browser. The login screen should appear. See below for a visual demo of logging into the Web Client for this ChatRoom.
 
 
