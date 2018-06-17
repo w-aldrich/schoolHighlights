@@ -8,6 +8,18 @@ This is a Android app that will connect to the server and run a ChatRoom. Create
 
 ## Visual Demo of Chat_App Client
 
+The login screen for the Chat_App is very similar to the login screen for the web client.
+
+<img src="https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/AndroidLogin.png"/>
+
+Once in the correct room, will change the text color according to whether you sent the message, or somebody else did.
+
+<img src="https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/AndroidText.png"/>
+
+The Chat_App can communicate with the web client as seen above. The following image is the same conversation from the web clients point of view.
+
+<img src="https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/WebToAndroid.png"/>
+
 ## ChatRoom_Server
 
 ***Server***
@@ -20,7 +32,6 @@ Created using Atom IDE for the *Http, CSS, and JavaScript*. Uses JSON formatting
 
 ## Visual Demo of Web Client
 
-#### First User Login Screen
 The first user who is trying to enter a room will see the following screen.
 
 <img src="https://github.com/w-aldrich/schoolHighlights/tree/master/ChatRoom/DemoPictures/FirstUserLogin.png"/>
