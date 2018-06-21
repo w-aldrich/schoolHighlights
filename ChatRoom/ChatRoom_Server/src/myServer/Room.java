@@ -48,9 +48,6 @@ public class Room {
 
 	public void refreshChat(Connection client) {
 		for(String s: messageList) {
-//			System.out.println(s);
-//			UpdateToJson utj = new UpdateToJson("refreshChat", s);
-//			s = utj.toJson();
 			client.sendMessage(s);
 		}
 	}

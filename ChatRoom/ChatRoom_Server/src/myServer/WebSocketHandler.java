@@ -249,10 +249,6 @@ public class WebSocketHandler{
 	 * @throws IOException
 	 */
 	synchronized void webSocketResponse(String decoded) throws IOException {
-		// This keeps a log of the messages and the thread that they came from
-		// System.out.println("Message from: " + clientConnection.getName() + ": " +
-		// decoded);
-		//new Message(decoded);
 		// a byte array for the header
 		byte[] header = new byte[2];
 		header[0] = (byte) 0b10000001;
